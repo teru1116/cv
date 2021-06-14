@@ -4,7 +4,7 @@
 # スキル
 
 ## 言語・フレームワーク等
-JavaScript | TypeScript | Nuxt.js | Vue.js | React | Node.js | Swift | SwiftUI | Objective-C | WordPress | Firebase
+JavaScript | TypeScript | Nuxt.js | Vue.js | React | Node.js | Swift | SwiftUI | Objective-C | Ruby on Rails | WordPress | Firebase
 
 ## バリューを発揮しやすい業務
 - SPAでのフロントエンド開発
@@ -41,6 +41,7 @@ JavaScript | TypeScript | Nuxt.js | Vue.js | React | Node.js | Swift | SwiftUI |
 - Swift/SwiftUIによるiOSアプリ開発
 - 各店舗へのiPadとTestFlightの導入
 - 紙で行われている業務のアプリ化を設計
+- Amazon API GatewayとAWS Lambdaによる、業務効率化ツールの作成
 
 ## マネジメント | アパレル系スタートアップにてスクラムマスター (2019年〜2020年)
 トップダウンからの脱却や非効率なコミュニケーションの改善への期待からスクラムを導入。会議体のファシリテーションやチームの状態の可視化、メンバーとの1on1などにより、自己成長型のプロダクト開発チームを目指す。コロナ流行を受けてのリモート体制への移行も担当。
